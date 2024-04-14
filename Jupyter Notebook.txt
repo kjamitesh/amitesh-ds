@@ -1,0 +1,32 @@
+Microsoft Windows [Version 10.0.19045.2486]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Amitesh Jha>cd:
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\Users\Amitesh Jha>CD C:\
+
+C:\>CD Python
+
+C:\Python>jupyter notebook
+[I 16:43:35.372 NotebookApp] Writing notebook server cookie secret to C:\Users\Amitesh Jha\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
+[I 2023-02-17 16:43:56.679 LabApp] JupyterLab extension loaded from C:\Python\anaconda3\lib\site-packages\jupyterlab
+[I 2023-02-17 16:43:56.679 LabApp] JupyterLab application directory is C:\Python\anaconda3\share\jupyter\lab
+[I 16:43:56.713 NotebookApp] Serving notebooks from local directory: C:\Python
+[I 16:43:56.714 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 16:43:56.714 NotebookApp] http://localhost:8888/?token=bfe598a41986d1261c88ecd0907ef7ad1406462670574962
+[I 16:43:56.714 NotebookApp]  or http://127.0.0.1:8888/?token=bfe598a41986d1261c88ecd0907ef7ad1406462670574962
+[I 16:43:56.714 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:43:56.973 NotebookApp]
+
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Amitesh%20Jha/AppData/Roaming/jupyter/runtime/nbserver-9096-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=bfe598a41986d1261c88ecd0907ef7ad1406462670574962
+     or http://127.0.0.1:8888/?token=bfe598a41986d1261c88ecd0907ef7ad1406462670574962
+[I 16:45:20.723 NotebookApp] Kernel started: d17e42ec-b741-4fa8-9d45-5303ef91278e, name: python3
+[I 16:47:18.993 NotebookApp] Saving file at /Untitled.ipynb
+C:\Python\anaconda3\lib\site-packages\nbformat\__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+C:\Python\anaconda3\lib\site-packages\notebook\services\contents\manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
